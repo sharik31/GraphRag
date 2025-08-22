@@ -1,4 +1,4 @@
-# Graphrag
+# GraphRag
 # Example Graph RAG
 
 ## Overview
